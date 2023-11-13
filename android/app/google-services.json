@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986792050704",
+    "project_id": "notifyapp-7bd1e",
+    "storage_bucket": "notifyapp-7bd1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986792050704:android:261830c82a71c4ad330a95",
+        "android_client_info": {
+          "package_name": "com.usman2000.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986792050704-5t2145o9jjogqg16rudefs2ps10461tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-4IG-_KuGAyUCbc5X2-EJZtc057v_Rm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986792050704-5t2145o9jjogqg16rudefs2ps10461tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
